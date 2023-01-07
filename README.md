@@ -3,11 +3,6 @@
   <a href="https://www.gmso.me">Website</a> •
   <a href="mailto:german.mene@gmail.com">Contact</a>
 </p>
-
-- 🔭 I’m currently working on a SaaS project
-- 🌱 I’m currently learning Django and PostgreSQL
-- 👯 I’m looking to collaborate on interesting open source projects
-- 💬 Ask me about Python, Django, Svelte
 <!--
 **gmso/gmso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
